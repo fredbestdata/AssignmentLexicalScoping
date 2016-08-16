@@ -1,3 +1,5 @@
+## This is my assignment for Lexical Scoping - Frederica Janga
+
 ## The first function creates a special "vector", 
 ## which is really a list containing a function to
 ## 1. set the value of the matrix
